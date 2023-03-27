@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 			Check out our website to learn more about McGill Robotics.
 			<br>
 			<div>
-				<img src="https://drive.google.com/file/d/1Qu7r8q_YWgFobj4zbwrpZ0NsC32s39oF/view?usp=share_link" width="450"  alt="McGill Robotics">
+				<img width="300px" src="https://user-images.githubusercontent.com/53016294/227971325-b7b82dc4-3c3c-491c-a16f-711fc56e21e5.png">
 			</div>
 		</a>
 		<sub><i>With over 150 members and 3 robotics projects, we're building robots to inspire students and inspiring students to build robots.</i></sub>
