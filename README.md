@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 <h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/brandon-sovran/">Ben</a></h1>
 
 <p align="center"> 
+	<a href="https://leetcode.com/benhepditch/">
+		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+	</a>
 	<a href="https://www.linkedin.com/in/ben-hepditch/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 	</a>
-	<a href="https://getwaddle.com">
-		<img src="https://img.shields.io/badge/getwaddle-blue?style=for-the-badge" alt="getwaddle"/>
-	</a>
+
 </p>
 
 ---
