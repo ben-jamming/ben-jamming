@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 	<img src="https://komarev.com/ghpvc/?username=ben-jamming" alt="ben-jamming"/>
 </p>
 
-<h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/brandon-sovran/">Ben</a></h1>
+<h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/ben-hepditch/">Ben</a></h1>
 
 <p align="center"> 
 	<a href="https://leetcode.com/benhepditch/">
