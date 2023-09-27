@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 	<img src="https://komarev.com/ghpvc/?username=ben-jamming" alt="ben-jamming"/>
 </p>
 
-<h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/ben-hepditch/">Ben</a></h1>
+<h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/ben-hepditch/">Ben</a></h1>
 
 <p align="center"> 
 	<a href="https://leetcode.com/benhepditch/">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 				<img width="300px" src="https://user-images.githubusercontent.com/53016294/227971325-b7b82dc4-3c3c-491c-a16f-711fc56e21e5.png">
 			</div>
 		</a>
-		<sub><i>With over 150 members and 3 robotics projects, we're building robots to inspire students and inspiring students to build robots.</i></sub>
+		<sub><i>With over 150 members and 3 robotics projects, McGill Robotics is one of the largest engineering teams at McGill.</i></sub>
 	</p>
 </div>
 
