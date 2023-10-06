@@ -31,3 +31,6 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 10
+      - name: Issue States
+        uses: dessant/issue-states@v3.0.0
+            
