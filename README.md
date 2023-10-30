@@ -53,7 +53,3 @@ Here are some ideas to get you started:
      <br><img src="https://github.com/ben-jamming/ben-jamming/blob/main/github-metrics.svg"><br> 
   </a>
 </h2>
-
-<div align="center">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=ben-jamming"><br> 
-</div>
