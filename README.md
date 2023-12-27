@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/ben-hepditch/">Ben</a></h1>
 
+<div align="center">
+    <a href="https://ben-jamming.github.io/personal-website/">
+        <img src="https://img.shields.io/badge/-Check%20Out%20My%20Portfolio%20Website!-34D058?style=for-the-badge&logo=Safari&logoColor=white" alt="Check Out My Portfolio Website!"/>
+    </a>
+</div>
+
 <p align="center"> 
 	<a href="https://leetcode.com/benhepditch/">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
@@ -26,9 +32,6 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/ben-hepditch/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 	</a>
-  <a href="https://ben-jamming.github.io/personal-website/">
-        <img src="https://img.shields.io/badge/-Personal%20Website-34D058?style=for-the-badge&logo=Safari&logoColor=white" alt="Personal Website"/>
-    </a>
 
 </p>
 
